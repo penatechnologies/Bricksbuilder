@@ -3,4 +3,4 @@ Here is where I will dump jsons and other stuff for people to poke, prod and lau
 
 ## Header Templates
 * Two Tiered Header file:
-![Two Tiered Header Image](/Two-Tier-Header-Desktop.png)
+![Two Tiered Header Image](Templates/Headers/Two-Tiered/Two-Tier-Header-01-Desktop.png) 
